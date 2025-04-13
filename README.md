@@ -3,17 +3,6 @@
 Movie Recommendation System
 
 This project is a Movie Recommendation System that combines Collaborative Filtering and Content-Based Filtering techniques to suggest movies to users. The system is built using Python libraries like Surprise and Scikit-learn. It includes features such as predicting movie ratings, generating personalized movie recommendations, and saving the trained model for future use.
-Table of Contents
-
-    Project Overview
-    Features
-    Dataset Used
-    Libraries Used
-    Installation
-    How to Use
-    Code Walkthrough
-    Outputs
-    Future Enhancements
 
 Project Overview
 
