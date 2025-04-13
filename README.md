@@ -52,7 +52,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/<your-username>/movie-recommendation-system.git
+git clone https://github.com/shreeyamane/Movie-Recommendation-System.git
 
 Navigate to the project directory:
 
